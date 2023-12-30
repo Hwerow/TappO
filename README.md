@@ -19,6 +19,7 @@ I used one from AITEXM ROBOT Official Store - ESP32 Arduino LVGL WIFI&Bluetooth 
 - Postman   https://www.postman.com/
 - Get Completed Batches from Brewfather https://api.brewfather.app/v2/batches/?include=measuredOg,measuredFg,measurements,&status=Completed
 - I found the Brian Lough https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display a good resource
+- Flasher https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v5.0.0 
 
 
 # My YouTube channel, Buy My Books, GitHub and website:  
