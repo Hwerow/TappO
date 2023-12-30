@@ -1,7 +1,8 @@
 # TappO
 A simple Tap List using the Brewfather® API and a CYD
 
-# Version 1.0 First Release
+# Version 
+1.0 First Release
 
 The video Tutorial has step-by-step instructions and describes how to make a Tap List using a CYD i.e. an ESP32-2432S028R
 
@@ -14,6 +15,7 @@ TappO displays up to 7 batches that are set to **Completed** status in Brewfathe
 
 # Main Prerequisites
 Brewfather® v2.10.4 [BF] https://brewfather.app/ **Premium Version** - so yes you have to pay an annual subscription but it is worth every cent.
+
 Uses an ESP32-2432S028R a Cheap Yellow Device [CYD] there are many variants out there - YMMV
 I used one from AITEXM ROBOT Official Store - ESP32 Arduino LVGL WIFI&Bluetooth Development Board 2.8 " 240*320 Smart Display Screen 2.8inch LCD TFT Module With Touch WROOM   This one uses a resistive touch.
 
