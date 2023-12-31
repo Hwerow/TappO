@@ -24,8 +24,13 @@ I used one from AITEXM ROBOT Official Store - ESP32 Arduino LVGL WIFI&Bluetooth 
 - Postman   https://www.postman.com/
 - Get Completed Batches from Brewfather https://api.brewfather.app/v2/batches/?include=measuredOg,measuredFg,measurements,&status=Completed
 - I found the Brian Lough https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display a good resource
-- Flasher https://github.com/marcelstoer/nodemcu-pyflasher/releases/tag/v5.0.0 
-
+- Flasher https://www.espressif.com/en/support/download/other-tools
+You will need to copy the files from the bin directory and use the offsets as shown below also see the YouTube.
+Example Input into ESP32 Flash Download Tool
+C:\bootloader.bin        0x1000 
+C:\partitions.bin        0x8000 
+C:\boot_app0.bin         0xe000
+C:\firmware.bin          0x10000
 
 # My YouTube channel, Buy My Books, GitHub and website:  
 \-------------------------------------------------------------------------------------------------  
