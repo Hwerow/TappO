@@ -30,6 +30,5 @@ I used one from AITEXM ROBOT Official Store - ESP32 Arduino LVGL WIFI&Bluetooth 
 \-------------------------------------------------------------------------------------------------  
 - https://m.youtube.com/channel/UCRhjjWS5IFHzldBhO2kyVkw/featured    Tritun Books Channel
 - https://www.lulu.com/spotlight/prsymons  Books available Print on demand from Lulu
-- [https://github.com/Hwerow/FermWatch](https://github.com/Hwerow/TappO)  This 
 - https://prstemp.wixsite.com/tritun-books   Website  
 \-------------------------------------------------------------------------------------------------
