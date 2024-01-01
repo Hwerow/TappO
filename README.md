@@ -6,7 +6,7 @@ A simple Tap List using the Brewfather® API and a CYD
 
 The video Tutorial has step-by-step instructions and describes how to make a Tap List using a CYD i.e. an ESP32-2432S028R
 
-Link to video: 
+Link to video: https://youtu.be/H_Dj6XDdYEE
 
 **Important** I am a brewer and author, I write books on recreating historic beers - **NOT a PROGRAMMER** - as will be obvious from inspection of the code. Although some of the fiddly stuff was produced by ChatGPT 3.5 after a lot of questioning and trial and error to get it to work.
 
@@ -23,7 +23,7 @@ I used one from AITEXM ROBOT Official Store - ESP32 Arduino LVGL WIFI&Bluetooth 
 - Base64 Encode  https://www.base64encode.org/ 
 - Postman   https://www.postman.com/
 - Get Completed Batches from Brewfather https://api.brewfather.app/v2/batches/?include=measuredOg,measuredFg,measurements,&status=Completed
-- I found the Brian Lough https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display a good resource
+- I found Brian Lough's https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display a good resource
 - Flasher https://github.com/marcelstoer/nodemcu-pyflasher/releases
   
 # My YouTube channel, Buy My Books, GitHub and website:  
